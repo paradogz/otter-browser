@@ -238,6 +238,7 @@ public:
 		BookmarkAllOpenPagesAction,
 		OpenBookmarkAction,
 		QuickBookmarkAccessAction,
+		ImagesPolicyAction,
 		CookiesAction,
 		LoadPluginsAction,
 		EnableJavaScriptAction,
